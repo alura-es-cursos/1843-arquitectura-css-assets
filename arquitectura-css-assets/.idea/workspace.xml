@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5c86d15-4a7a-4f6b-9871-8c3c95a7060c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vok1zZ3RXdcD7kEQZXjeJRWV1t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/css/menu" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Repositorio\wlls\Alura\Cursos\Arquitectura CSS\repositorio\arquitectura-css-assets\assets\css\menu" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5c86d15-4a7a-4f6b-9871-8c3c95a7060c" name="Default Changelist" comment="" />
+      <created>1627235617210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627235617210</updated>
+      <workItem from="1627235623187" duration="12593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="691" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1627250707556">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="691" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1366.325.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1627250707556" />
+    <state x="462" y="166" key="SettingsEditor" timestamp="1627247523289">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="462" y="166" key="SettingsEditor/-1366.325.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1627247523289" />
+  </component>
+</project>
