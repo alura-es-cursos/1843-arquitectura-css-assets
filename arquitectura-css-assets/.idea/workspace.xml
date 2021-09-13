@@ -24,12 +24,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/css/sobre" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Repositorio\wlls\Alura\Cursos\Arquitectura CSS\repositorio\arquitectura-css-assets\assets\css" />
+      <recent name="C:\Repositorio\wlls\Alura\Cursos\Arquitectura CSS\repositorio\arquitectura-css-assets\assets\css\recetas" />
       <recent name="C:\Repositorio\wlls\Alura\Cursos\Arquitectura CSS\repositorio\arquitectura-css-assets\assets\css\sobre" />
       <recent name="C:\Repositorio\wlls\Alura\Cursos\Arquitectura CSS\repositorio\arquitectura-css-assets\assets\css\banner" />
       <recent name="C:\Repositorio\wlls\Alura\Cursos\Arquitectura CSS\repositorio\arquitectura-css-assets\assets\css\menu" />
@@ -47,7 +49,7 @@
       <updated>1627235617210</updated>
       <workItem from="1627235623187" duration="20274000" />
       <workItem from="1630278099780" duration="3686000" />
-      <workItem from="1630283745895" duration="2598000" />
+      <workItem from="1630283745895" duration="6154000" />
     </task>
     <servers />
   </component>
