@@ -24,12 +24,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/css/menu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/css/sobre" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Repositorio\wlls\Alura\Cursos\Arquitectura CSS\repositorio\arquitectura-css-assets\assets\css\sobre" />
+      <recent name="C:\Repositorio\wlls\Alura\Cursos\Arquitectura CSS\repositorio\arquitectura-css-assets\assets\css\banner" />
       <recent name="C:\Repositorio\wlls\Alura\Cursos\Arquitectura CSS\repositorio\arquitectura-css-assets\assets\css\menu" />
     </key>
   </component>
@@ -43,7 +45,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627235617210</updated>
-      <workItem from="1627235623187" duration="12593000" />
+      <workItem from="1627235623187" duration="20274000" />
+      <workItem from="1630278099780" duration="3686000" />
+      <workItem from="1630283745895" duration="2598000" />
     </task>
     <servers />
   </component>
@@ -55,9 +59,17 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="691" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1366.325.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1627250707556" />
-    <state x="462" y="166" key="SettingsEditor" timestamp="1627247523289">
+    <state x="462" y="166" key="SettingsEditor" timestamp="1630282062230">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="462" y="166" key="SettingsEditor/-1366.325.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1627247523289" />
+    <state x="462" y="166" key="SettingsEditor/-1366.325.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1630282062230" />
+    <state x="376" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1630283745768">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="376" y="302" key="com.intellij.ide.util.TipDialog/-1366.325.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1630283745768" />
+    <state x="379" y="183" width="731" height="674" key="find.popup" timestamp="1630283940282">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="379" y="183" width="731" height="674" key="find.popup/-1366.325.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1630283940282" />
   </component>
 </project>
